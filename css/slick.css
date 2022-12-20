@@ -265,7 +265,7 @@
 }
 
 .skills .card:hover h4, .skills .card:hover p{
-    color: var(--second-color);
+    color: #c18f59;
     transition: 1s;
 }
 

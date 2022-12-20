@@ -910,7 +910,7 @@
 
 .site-footer {
   padding-top: 120px;
-  padding-bottom: 100px;
+  /* padding-bottom: 100px; */
   background-color: #343434; }
   @media (max-width: 1250px) {
     .site-footer {
@@ -932,7 +932,7 @@
       align-items: center; } }
 
 .footer-info {
-  width: 50%;
+  /* width: 50%; */
   display: flex; }
   .footer-info .footer-info__left {
     margin-right: 45px; }
